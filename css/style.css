@@ -1,6 +1,6 @@
 * {
-  color: white;
-  background-color: rgb(49, 43, 43);
+  color: rgb(240, 230, 78);
+  background-color: #272538;
   font-family: "DejaVu Sans", Verdana, sans-serif;
 }
 
@@ -12,5 +12,20 @@
 
 p {
   font-size: 18px;
+}
+
+ul,
+ol {
+  font-size: 14px;
+}
+
+img {
+  height: 350px;
+  width: auto;
+}
+
+#small {
+  font-size: 10px;
+  font-weight: 800;
 }
 
